@@ -1,0 +1,23 @@
+{
+  "name": "mock-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunZh/mock-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaunZh/mock-data/issues"
+  },
+  "homepage": "https://github.com/ShaunZh/mock-data#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
