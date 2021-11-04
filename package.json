@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/ShaunZh/mock-data#readme",
   "dependencies": {
-    "koa": "^2.13.4"
+    "@koa/cors": "^3.1.0",
+    "@koa/router": "^10.1.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1"
   }
 }
